@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WebApplication2\\wwwroot"
   ],
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\WebApplication2.sln",
+  "PreviewInSolutionExplorer": true
 }
